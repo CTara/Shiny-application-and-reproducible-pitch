@@ -1,0 +1,8 @@
+name: Shinyapp
+account: ctara
+server: shinyapps.io
+bundleId: 465310
+url: https://ctara.shinyapps.io/Shinyapp/
+when: 1464498557.15897
+asMultiple: FALSE
+asStatic: FALSE
